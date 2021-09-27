@@ -1,4 +1,5 @@
 # pi-pico
 Pi Pico related codes
 
-SSD1331 LCD code
+List of codes
+1) SSD1331 LCD code
