@@ -1,4 +1,4 @@
-This code use Waveshare 0.95" OLED
+This code use Waveshare 0.95" OLED, Pi Pico, micropython.
 Connection: GPIO6->DIN / GPIO7->CLK / GPIO8->D/C / GPIO9->CS
 Contrary to their wiki, RES pin is active high (wiki said its active Low)
 Plase feel free to add/modify and please let me know if there is a bug.
