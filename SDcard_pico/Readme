@@ -1,0 +1,8 @@
+This code is entirely based on this (https://www.digikey.sk/en/maker/projects/e472c7f578734bfd96d437e68e670050)
+
+Here is the connection
+
+CS - GPIO 13
+SCK - GPIO 10
+MOSI - GPIO 11
+MISO - GPIO 12
