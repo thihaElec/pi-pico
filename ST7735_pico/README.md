@@ -8,6 +8,18 @@ Changes:
 RESET=GPIO 19, CS=GPIO 20, A0=GPIO 18
 SPI 0 SCK=GPIO Pin(2),SDA=GPIO Pin(3)
 
+ST7735 TFT			Pico
+Pin#	name				
+1	VCC	5V/3.3V		3V3	(pin 36)
+2	GND	Ground		GND	(pin 38)
+3	CS	chip select	20	(pin 26)
+4	RESET	reset		19	(pin 25)
+5	A0	reg/data	18	(pin 24)
+6	SDA	SPI data	3	(pin 5)
+7	SCK	SPI clock	2	(pin 4)
+8	LED	Backlight	3V3
+
+
 # MicroPython_ST7735S
 
 Last update added support for a cheap 128x128 TFT display.
