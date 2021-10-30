@@ -1,0 +1,20 @@
+Code based on the following repos.
+
+https://github.com/Akkiesoft/akkiesoft-pico/tree/main/MicroPython/test-pico-pcd8544
+https://github.com/kfricke/micropython-nunchuck
+
+
+Connections
+Nokia
+Gnd: Pico GND (38)
+BL : Pico GP28(34)
+Vcc: Pico 3V3 (36)
+Clk: Pico GP6 ( 9)
+Din: Pico GP7 (10)
+DC : Pico GP4 ( 6)
+CE : Pico GP5 ( 7)
+RST: Pico GP8 (11)
+
+Wii Nunchuk
+SCL - GPIO 17 (22)
+SDK - GPIO 16 (21)
